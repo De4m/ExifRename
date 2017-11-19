@@ -9,7 +9,12 @@
 
 
 #exiftool  -copyright="De4m (De4m@yandex.ru)(ShotDate:2017:02:11 11:55:52)" test.thm
-
+#
+#
+#
+#
+#
+#
 
 import os
 import re
